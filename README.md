@@ -5,6 +5,25 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="http://g.recordit.co/ePO30BNtdo.gif" width=250><br>
+
+### Notes
+I could not figure out how to fix the issues with the movie poster images, so I went ahead and looked at the solution provided, which was to change the estimate size to None
+
 ---
 
 ## Flix Part 1
@@ -19,7 +38,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
 
 <img src="http://g.recordit.co/937DLA6Bi8.gif" width=250><br>
 
